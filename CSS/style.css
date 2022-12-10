@@ -1,0 +1,107 @@
+header {
+    background-color: rgb(219, 161, 0);
+    text-align: center;
+    font-size: 1.28rem;
+    padding: 1px;
+    height: 135px;
+}
+
+header a {
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    margin-right: 5px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+header a:hover {
+    background-color:#9c5f04;
+    padding: 1px;
+}
+
+#header1{
+    background-color:rgb(41, 38, 33) ;
+    padding: 1px;
+}
+
+body {
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color:rgb(41, 38, 33);
+}
+
+main {
+    margin-top: 20px;
+    text-align: center;
+    margin-right: 250px;
+    margin-left: 250px;
+    word-wrap: break-word;
+    max-width: 1600px;
+    background-color:  rgb(219, 161, 0);
+    border: solid;
+    border-radius: 20px;
+}
+main{
+    text-align: center;
+}
+
+main img{
+    border: solid;
+    border-radius: 20px;
+}
+
+a:hover {
+    color:whitesmoke;
+    padding: 1px;
+}
+
+h2 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 50px;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#texto1{
+    margin-top: 20px;
+}
+#fim{
+    padding-bottom: 20px;
+}
+#main{
+    background-color: rgb(219, 161, 0);
+}
+#body{
+    background-color: rgb(124, 70, 0);
+}
+#body2{
+    background-color: #352000;
+}
+#fim{
+    padding-bottom: 20px;
+}
+#rodape{
+    background-color: rgb(71, 66, 57);
+    text-align: center;
+}
+#rodape2{
+    background-color:#553300 ;
+}
+#rodape3{
+    background-color: rgb(158, 90, 0)
+}
+.link1:hover{
+    background-color: rgb(41, 38, 33);
+}
+.link3:hover{
+    background-color: rgb(124, 70, 0);
+}
+.link2:hover{
+    background-color: #352000;
+}
